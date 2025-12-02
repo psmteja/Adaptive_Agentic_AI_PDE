@@ -1,4 +1,4 @@
-# Physics Foundation Models – Local Testing Guide
+## Physics Foundation Models – Local Testing Guide
 
 This document is a quick practical guide to installing and testing a few physics / PDE foundation models locally.
 
