@@ -1,0 +1,22 @@
+# Example configuration for the PDE agent demo.
+
+experiment_name: "pde_transformer_heat_2d_demo"
+
+data:
+  nx: 64        # grid size in x
+  ny: 64        # grid size in y
+  nt: 20        # total time steps of the baseline PDE solver
+  dt: 0.05      # time step size (for the toy heat solver)
+  nu: 0.2       # diffusion coefficient
+
+model:
+  type: "pde_transformer"
+  variant: "mc-s"   # PDE-Transformer mixed-channel small
+
+rollout:
+  max_horizon: 10          # maximum number of prediction steps
+  horizons_to_eval: [1, 5, 10]
+
+plotting:
+  output_dir: "plots"
+  horizon_for_plot: 10
