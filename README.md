@@ -27,7 +27,6 @@ This document is a quick practical guide to installing and testing a few physics
 ## PDE-Transformer
 
 **Type:** PDE FM backbone  
-**Ease:** ⭐⭐⭐ (Easiest – recommended starting point)
 
 ### Overview
 
