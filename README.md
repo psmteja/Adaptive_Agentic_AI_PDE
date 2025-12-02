@@ -1,6 +1,6 @@
-## Physics Foundation Models – Local Testing Guide
+## Physics Foundation Models – Agentic AI Framework
 
-This document is a quick practical guide to installing and testing a few physics / PDE foundation models locally.
+This document is a practical guide for testing Agentic AI on PDE Foundational Models
 
 ## Models Covered
 
