@@ -2,9 +2,9 @@
 
 This document is a practical guide for testing Agentic AI on PDE Foundational Models
 
-## Models Covered
+### Planned Models to be Covered
 
-- [PDE-Transformer](#pde-transformer)
+- [PDE-Transformer](#pde-transformer) (DONE)
 - [Walrus](#walrus)
 - [GPhyT](#gphyt)
 - [MixER / MoE-POT](#mixer--moe-pot)
